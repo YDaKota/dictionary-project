@@ -13,7 +13,10 @@ export default function App() {
           <Dictionary defaultKeyword="book"/>
         </main>
         <footer className="App-footer">
-          <small>Coded by She codes</small>
+          <small>
+          Coded by Yulia Kashichichenko
+          <a href="https://github.com/YDaKota/dictionary-project" target="_blank" rel="noopener noreferrer"> Github</a>
+          </small>
         </footer>
       </div>
     </div>
